@@ -1,0 +1,8 @@
+#AulaTP071119
+Conteudo da aula do dia 04/11/19 de TP
+
+INIT -> Cria um repositorio GIT no computador
+COMMIT -> Serve para versionar o código, ou seja, gerar uma versão do arquivo. 
+PUSH -> Enviar o conteúdo para o servidor. 
+PULL -> Mais usado em equipe, mostra as modificações do código, recupera o que está no servidor. 
+CLONE -> Pegar o que já existe e clonar, copia códigos.
